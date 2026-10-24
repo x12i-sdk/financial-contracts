@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Canonical schemas, enums, and runtime validation for the financial reporting engine.
-- A producer and consumer of financial data need to share the published type or validation contract before exchanging payloads.
+- Validate a trial-balance payload against the canonical schema before computation.
+- Share account, period, finding and availability contracts across financial clients and services.
 
 ## Links
 
