@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-contracts",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-contracts",
+  "usageRepository": "https://github.com/x12i-sdk/financial-contracts",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/contracts",
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:30:38.747485+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "38048cd2b3125710a20fb06f802206bd8e3d58008e2e2f0494b940928531182a",
+    "manifestSha256": "94e82e7ebd34f0a95fc74766b9a1627d6d11e1fd9842aa5c0a07183226ba5f23"
+  }
+}
